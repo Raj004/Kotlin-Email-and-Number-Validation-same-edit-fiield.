@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Email_Phonenum_same_edittext_valdiation</string>
+    <string name="hint_email">Please enter Email or Phone number</string>
+</resources>
